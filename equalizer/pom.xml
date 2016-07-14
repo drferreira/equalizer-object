@@ -4,7 +4,7 @@
 	<groupId>br.org.tutty</groupId>
 	<artifactId>equalizer</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.2</version>
+	<version>2.0.2-SNAPSHOT</version>
 	<name>equalizer</name>
 
 	<scm>
