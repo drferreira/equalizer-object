@@ -1,7 +1,8 @@
-/*/target/
-/*/.settings
-/*/.project
-/*/.classpath
+**/target/
+**/*.settings
+**/*.project
+**/*.classpath
+/*/*.iml
 *.jsfdia
 *.metadata
 **/.idea
@@ -13,4 +14,5 @@
 /**/env.properties
 /**/npm-debug.log.*
 **/.sonar
+**/*npm-debug.log
 env.properties
